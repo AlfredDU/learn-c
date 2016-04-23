@@ -1,0 +1,10 @@
+# put any other files you don't want to check in here
+.DS_Store
+
+# folders managed by VCS of their own
+opencv/
+opengl
+Playground/
+
+# less-valued codes
+qt-cpp-project-template.pro
