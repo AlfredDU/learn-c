@@ -1,5 +1,6 @@
 # put any other files you don't want to check in here
 .DS_Store
+Icon*
 
 # folders managed by VCS of their own
 opencv/
